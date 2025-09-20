@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am Deepak Gupta, I Completed my graduation in Computer Application(BCA). I have strong knowledge of HTML, CSS, JavaScript, and I am also learning React. I have built small projects like a personal portfolio website- https://formwalasite.com . Apart from technical skills, I am good at problem-solving and teamwork. I am looking forward to this internship because it will allow me to apply my coding knowledge in real-world projects.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,10 +33,10 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
+  "Clean UI design",
   "Focus group testing",
   "Mobile user interfaces",
-  "Graphic design",
+  "Quick learning",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "My biggest strength is that I am a quick learner and adaptable. Whenever I face a new tool or concept, I learn it fast and apply it effectively. This helps me in handling tasks even if they are new to me. I enjoy finding solutions to coding errors and I keep working on them until I fix the issue. This persistence helps me improve my technical skills.";
 
 const About = () => {
   return (
